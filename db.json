@@ -1,0 +1,1221 @@
+{
+  "shipments": [
+    {
+      "name": "T-shirts from Shanghai to",
+      "id": "S1000",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "name": "New spring collection",
+      "id": "S1101",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "S1022",
+      "name": "PO89634, PO27X",
+      "cargo": [
+        {
+          "type": "Bikes model 27X",
+          "description": "100 Bikes model 27X",
+          "volume": "100"
+        }
+      ],
+      "mode": "air",
+      "type": "LCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "10000",
+      "status": "COMPLETED",
+      "userId": "U1001"
+    },
+    {
+      "id": "A1003",
+      "name": "T-shirts from Shanghai to Hamburg2",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Chennai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1104",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1115",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S2006",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Chennai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1207",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Chennai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "D1008",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "C1099",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1110",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1211",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Chennai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1012",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1013",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1014",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1015",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Chennai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1016",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Chennai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1017",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1018",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1019",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1020",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1021",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1222",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S2023",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1024",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1225",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1026",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1097",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1028",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1029",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1030",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1031",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1032",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1033",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1034",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1085",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1036",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1037",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1838",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1039",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1040",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1041",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "COMPLETED",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1042",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    },
+    {
+      "id": "S1043",
+      "name": "T-shirts from Shanghai to Hamburg",
+      "cargo": [
+        {
+          "type": "Fabric",
+          "description": "1000 Blue T-shirts",
+          "volume": "2"
+        },
+        {
+          "type": "Fabric",
+          "description": "2000 Green T-shirts",
+          "volume": "3"
+        }
+      ],
+      "mode": "sea",
+      "type": "FCL",
+      "destination": "Saarbrücker Str. 38, 10405 Berlin",
+      "origin": "Shanghai Port",
+      "services": [
+        {
+          "type": "customs"
+        }
+      ],
+      "total": "1000",
+      "status": "ACTIVE",
+      "userId": "U1000"
+    }
+  ]
+}
