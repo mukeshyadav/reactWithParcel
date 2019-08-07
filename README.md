@@ -18,3 +18,4 @@ npm run dev
 3. Parcel
 4. Babel
 5. Styled Components
+6. JSON server
